@@ -30,7 +30,12 @@ This project was developed as part of the **Forschungspraktikum (Research Intern
 
 ## Screenshots
 
-> Add screenshots of your application here after upload.
+UTF Validator Tool — Main Interface
+<img width="1919" height="1028" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/3ae9b43b-bcb9-4aa5-9393-b09f2d2a7692" />
+
+UTF and Non-UTF File Detection with Invalid UTF Warning and Mini Pie Chart after scanning
+<img width="1916" height="1024" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/6c825cc3-e36c-4eaf-8879-8a4219f40b2d" />
+
 
 ---
 
